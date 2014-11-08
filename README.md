@@ -16,4 +16,6 @@ Thanks to those who have encouraged me to release a new version every month.
 **With this kit you can project your application for Ubuntu. Diagrams, workflow, navigation, visual design, check dimensions in your phone and other things that will surely be of great help. 
 The Kit is systematized to make the slightest effort to design your app.**
 
-==Show us what you can do with it.==
+Show us what you can do with it.
+
+[You can use Placeit to show your mockups on any device.](https://placeit.net/)
