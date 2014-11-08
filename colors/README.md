@@ -1,7 +1,8 @@
-Install Inkscape color palette
+Inkscape color palettes
 ====
 
 ##How to install?
+
 Very simple.
 
 Linux - Paste the file on
