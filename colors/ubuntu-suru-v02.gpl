@@ -1,0 +1,92 @@
+GIMP Palette
+Name: Ubuntu Suru v02
+
+#
+  0   0   0     Black
+ 51  51  51     Cool Grey 6
+102 102 102     Cool Grey 5
+136 136 136     Cool Grey 4
+170 170 170     Cool Grey 3
+204 204 207     Cool Grey 2
+238 238 238     Cool Grey 1
+255 255 255     White
+205 207 211     C. Grey A - 3
+223 226 230     C. Grey A - 2
+238 239 242     C. Grey A - 1
+226 223 225     W. Grey B - 4
+230 227 228     W. Grey B - 3
+233 231 232     W. Grey B - 2
+233 235 237     W. Grey B - 1
+208 202 205     W. Grey C - 4
+220 215 217     W. Grey C - 3
+229 226 227     W. Grey C - 2
+241 243 244     W. Grey C - 1
+174 167 159     W. Grey D - 5
+193 187 182     W. Grey D - 4
+209 206 203     W. Grey D - 3
+215 212 209     W. Grey D - 2
+228 227 227     W. Grey D - 1
+108 114 110     C. Grey B - 2
+145 150 148     C. Grey B - 1
+152 153 150     W. Grey E - 2
+156 158 148     W. Grey E - 1
+  0  43  54     Base -3 (BG tone)
+  7  53  68     Base -2 (BG tone)
+ 89 109 116     Base -1 (BG tone)
+103 123 132     Base -0 (BG tone)
+129 149 148     Base +0 (BG tone)
+149 161 161     Base +1 (BG tone)
+239 232 213     Base +2 (BG tone)
+254 247 228     Base +3 (BG tone)
+182 139   1     Yelow (Accent)
+202  75  20     Orange (Accent)
+219  49  49     Red (Accent)
+211  55 129     Magenta (Accent)
+107 114 195     Violet (Accent)
+ 41 139 214     Blue (Accent)
+ 43 160 152     Cyan (Accent)
+133 154   1     Green A (Accent)
+ 53 175  68     Green B (Accent)
+ 26 112 158     # 01
+104 171 187     # 02
+ 96 143 156     # 03
+196 107  55     # 04
+204 140  79     # 05
+219 187 122     # 06
+ 80  62  57     # 07
+103  65  56     # 08
+185 127  78     # 09
+ 51  50  68     # 10
+ 87  55  69     # 11
+126  90  89     # 12
+151  89  83     # 13   
+ 24  79  87     # 14
+ 50  90  95     # 15
+ 62 100 104     # 16
+ 71  89  94     # 17
+174  96  63     # 18
+187 132 104     # 19
+211 185 163     # 20
+226 201 179     # 21
+237 213 189     # 22
+243 225 206     # 23
+239 200 166     # 24
+161  52  54     # 25
+162 127 106     # 26
+186 183 163     # 27
+163 154  86     # 28
+212 210 175     # 29
+186 186 173     # 30
+239 236 233     # 31
+ 51  51  51     Cool Grey 11 (BRAND) 
+174 167 159     Warm Grey 5 (BRAND)
+221  72  20     Ubuntu Orange (BRAND)
+119  41  83     Canonical Aubergine (BRAND)
+ 44   0  30     Dark Aubergine (BRAND)
+ 94  39  80     Mid Aubergine (BRAND)
+119  33 111     Light Aubergine (BRAND)
+139   0  90     Canonical Logo (BRAND)
+251 139   0     Yelow (NOTES)
+252 172  73     Yelow - light (NOTES)
+  1 151 253     Blue (GESTURES)
+ 74 181 254     Blue - light (GESTURES)
